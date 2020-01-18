@@ -1,12 +1,12 @@
-package com.tuation.userInteface.service;
+package com.tuation.userInteface.main;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UserInterfaceServiceApplication {
+public class UserInterfaceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UserInterfaceServiceApplication.class, args);
+		SpringApplication.run(UserInterfaceApplication.class, args);
 	}
 
 }

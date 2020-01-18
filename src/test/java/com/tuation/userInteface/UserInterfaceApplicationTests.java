@@ -1,9 +1,9 @@
-package com.tuation.userInteface.service;
+package com.tuation.userInteface;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class  UserInterfaceServiceApplicationTests {
+class  UserInterfaceApplicationTests {
 
 	@Test
 	void contextLoads() {
