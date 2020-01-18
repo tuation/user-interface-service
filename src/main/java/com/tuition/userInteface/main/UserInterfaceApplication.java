@@ -1,4 +1,4 @@
-package com.tuation.userInteface.main;
+package com.tuition.userInteface.main;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
